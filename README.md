@@ -25,7 +25,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-omega-jade.vercel.app/api?username=ali-script&show_icons=true&theme=highcontrast&hide=contribs,prs&hide_title=false&rank_icon=github&hide_border=true)](https://github.com/Ali-Script)
+[![Anurag's GitHub stats](https://github-readme-stats-omega-jade.vercel.app/api?username=ali-script&show_icons=true&theme=highcontrast&hide=contribs,prs&hide_title=true&rank_icon=github&hide_border=true)](https://github.com/Ali-Script)
 
 
 ## Most Used Language 
