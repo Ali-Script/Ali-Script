@@ -24,11 +24,11 @@
 ## Activity
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-script&show_icons=true&theme=highcontrast&hide=contribs,prs&rank_icon=github&hide_title=true&hide_border=true)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-script&show_icons=true&theme=highcontrast&hide=contribs,prs&rank_icon=github&hide_title=true&hide_border=true)](https://github.com/Ali-Script)
 
 ## Most Used Language 
 
-![len](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-script&hide_progress=true&hide_title=true&theme=highcontrast&hide_border=true)
+[![len](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-script&hide_progress=true&hide_title=true&theme=highcontrast&hide_border=true)](https://github.com/Ali-Script)
 
 
 <!--[![Sparkline](https://stars.medv.io/ali-script/site.svg)](https://stars.medv.io/ali-script/site)-->
