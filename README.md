@@ -24,9 +24,7 @@
 ## Activity
 
 
-
-[![Anurag's GitHub stats](https://readme-git-main-ali-scripts-projects.vercel.app/api?username=ali-script&show_icons=true&theme=highcontrast&hide=contribs,prs&hide_title=true&rank_icon=github&hide_border=true)](https://github.com/Ali-Script)
-
+[![Anurag's GitHub stats](https://readme-git-main-ali-scripts-projects.vercel.app/api?username=ali-script&show_icons=true&theme=highcontrast&hide=contribs,prs&hide_title=true&rank_icon=github&hide_border=true)]]
 
 ## Most Used Language 
 
