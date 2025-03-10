@@ -1,7 +1,9 @@
 <div align="center">
  
 [![gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)](https://github.com/Ali-Script)
- # I'm Ali-Amiri 
+ # Hi I'm Ali
+### I started programming at the age of 15 with C++ and Python, Now I'm almost 20 and I'm a professional back-end developer
+
 <details>
 <summary><h1>My Skills <a href="https://github.com/Ali-Script"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" /></h1></summary>
 
